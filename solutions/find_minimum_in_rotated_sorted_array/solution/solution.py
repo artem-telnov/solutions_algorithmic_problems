@@ -9,7 +9,8 @@ class Solution:
             # А это значит что первый элемент является минимальным.
             return nums[0]
         else:
-            return nums[self.search_gap(nums)]
+            gap_index = self.search_gap(nums)
+            return nums[gap_index]
 
 
     def search_gap(self, nums: List[int]) -> int:
