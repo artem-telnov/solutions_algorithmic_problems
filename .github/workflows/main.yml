@@ -1,4 +1,4 @@
-name: NewPush
+name: New pull request
 
 on: [pull_request]
 
