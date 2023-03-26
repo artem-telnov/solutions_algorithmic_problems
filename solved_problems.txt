@@ -7,6 +7,7 @@ https://leetcode.com/problems/length-of-last-word/
 https://leetcode.com/problems/linked-list-cycle/
 https://leetcode.com/problems/merge-k-sorted-lists/
 https://leetcode.com/problems/merge-two-sorted-lists/
+https://leetcode.com/problems/power-of-two/
 https://leetcode.com/problems/reverse-linked-list/
 https://leetcode.com/problems/search-a-2d-matrix/
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
