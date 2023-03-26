@@ -29,4 +29,4 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: ПР прошел проверки и готов к review ${{ github.base_ref }}.
+        message: ПР прошел проверки и готов к review ${{ github.head_ref }}.
